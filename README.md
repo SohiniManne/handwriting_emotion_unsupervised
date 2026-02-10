@@ -202,7 +202,8 @@ This project demonstrates that handwriting style contains emotion-related inform
 ## 👨‍💻 Author
 
 **[Sohini Manne]**
+
 Handwriting Emotion Recognition System
 Academic Project
 
-Just tell me 👍
+
